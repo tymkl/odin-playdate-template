@@ -14,5 +14,5 @@ update :: proc(gameData: ^GameData) -> i32 {
 }
 
 gameEventHandler :: proc(playdate: ^pd.PlaydateAPI, event: pd.PDSystemEvent, arg: u32) -> i32 {
-	
+	return 0
 }
