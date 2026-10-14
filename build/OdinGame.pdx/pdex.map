@@ -1,0 +1,1199 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              build/staging/pdex-runtime-core.o (__aeabi_uldivmod)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                              build/staging/pdex-builtin.o (__aeabi_unwind_cpp_pr0)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (restore_core_regs)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (abort)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+                              build/staging/pdex-runtime-core_builtin.o (memmove)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+                              build/staging/pdex-main-game.o (memset)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o) (raise)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o) (_impure_ptr)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o) (_kill_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+                              build/staging/pdex-runtime-core.o (memcpy)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o) (__sf)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o) (errno)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o) (_fwalk_sglue)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o) (_fclose_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o) (__sflush_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o) (__sread)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o) (_close_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o) (_lseek_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o) (_read_r)
+/Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o) (_write_r)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+ .text          0x00000000        0x8 build/staging/pdex-builtin.o
+ .ARM.exidx     0x00000000       0x10 build/staging/pdex-builtin.o
+ .ARM.exidx     0x00000000       0x10 build/staging/pdex-main-allocator.o
+ .ARM.exidx     0x00000000       0x20 build/staging/pdex-main-game.o
+ .ARM.exidx     0x00000000       0x18 build/staging/pdex-mem.o
+ .ARM.exidx     0x00000000       0x20 build/staging/pdex-runtime-core_builtin.o
+ .ARM.exidx     0x00000000        0x8 build/staging/pdex-runtime-core_builtin$1.o
+ .ARM.exidx     0x00000000        0x8 build/staging/pdex-runtime-core_builtin$2.o
+ .ARM.exidx     0x00000000       0x30 build/staging/pdex-runtime-core.o
+ .ARM.exidx     0x00000000        0x8 build/staging/pdex-runtime-default_allocators_nil.o
+ .ARM.exidx     0x00000000       0x50 build/staging/pdex-runtime-error_checks.o
+ .ARM.exidx     0x00000000       0x68 build/staging/pdex-runtime-internal.o
+ .ARM.exidx     0x00000000        0x8 build/staging/pdex-runtime-os_specific_freestanding.o
+ .ARM.exidx     0x00000000       0x10 build/staging/pdex-runtime-os_specific.o
+ .ARM.exidx     0x00000000       0x28 build/staging/pdex-runtime-print.o
+ .text          0x00000000       0x3c build/staging/pdex-runtime-procs.o
+ .ARM.exidx     0x00000000        0x8 build/staging/pdex-runtime-procs.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-procs.o
+ .ARM.attributes
+                0x00000000       0x46 build/staging/pdex-runtime-procs.o
+ .ARM.exidx     0x00000000       0x10 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .group         0x00000000       0x10 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .text.runtime::[random_generator_chacha8_ref.odin]::chacha8rand_refill_ref$anon-runtime:random_generator_chacha8_ref.odin:885
+                0x00000000       0x42 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .ARM.exidx.text.runtime::[random_generator_chacha8_ref.odin]::chacha8rand_refill_ref$anon-runtime:random_generator_chacha8_ref.odin:885
+                0x00000000        0x8 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .ARM.exidx     0x00000000       0x10 build/staging/pdex-runtime-random_generator_chacha8.o
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.selfrel_offset31
+                0x00000000       0x14 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.selfrel_offset31
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x00000000       0x68 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.search_EIT_table
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x00000000       0x28 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x00000000       0x9c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.get_eit_entry
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x00000000       0x58 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x00000000       0xd4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x00000000       0x70 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_ForcedUnwind
+                0x00000000       0x10 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Resume
+                0x00000000       0x44 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000       0x14 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Get
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_GetGR
+                0x00000000       0x18 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetGR
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_SetGR
+                0x00000000       0x1c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_SetGR
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x00000000       0x8c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_pr_common
+                0x00000000      0x294 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Pop
+                0x00000000      0x2fc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .debug_frame   0x00000000      0x2b4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text          0x00000000      0x198 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .debug_line_str
+                0x00000000       0xee /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.next_unwind_byte
+                0x00000000       0x38 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.next_unwind_byte
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x00000000       0x18 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x00000000      0x308 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x00000000       0x30 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x00000000       0x14 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x6 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x6 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .debug_frame   0x00000000       0xf4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .text.abort    0x00000000       0x10 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .debug_frame   0x00000000       0x28 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text._signal_r
+                0x00000000       0x58 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text._raise_r
+                0x00000000       0x60 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x74 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text.raise    0x00000000       0x64 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text.signal   0x00000000       0x60 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text._init_signal
+                0x00000000       0x44 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text.__sigtramp
+                0x00000000       0x7c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .debug_frame   0x00000000      0x168 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000      0x200 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .text._kill_r  0x00000000       0x28 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .text._getpid_r
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .debug_frame   0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+ .ARM.extab     0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+ .ARM.exidx     0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x1c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x1c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0xf0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xc0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x24 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x24 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x13c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x6c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x44 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x00000000       0xc4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .text.fclose   0x00000000       0x10 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .debug_frame   0x00000000       0x3c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x134 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x70 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x90 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x84 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x24 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x40 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x8c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000000                        __exidx_start = 0x0
+                0x00000000                        __exidx_end = 0x0
+LOAD /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+LOAD build/staging/pdex-builtin.o
+LOAD build/staging/pdex-main-allocator.o
+LOAD build/staging/pdex-main-game.o
+LOAD build/staging/pdex-mem.o
+LOAD build/staging/pdex-runtime-core_builtin.o
+LOAD build/staging/pdex-runtime-core_builtin$1.o
+LOAD build/staging/pdex-runtime-core_builtin$2.o
+LOAD build/staging/pdex-runtime-core.o
+LOAD build/staging/pdex-runtime-default_allocators_nil.o
+LOAD build/staging/pdex-runtime-error_checks.o
+LOAD build/staging/pdex-runtime-internal.o
+LOAD build/staging/pdex-runtime-os_specific_freestanding.o
+LOAD build/staging/pdex-runtime-os_specific.o
+LOAD build/staging/pdex-runtime-print.o
+LOAD build/staging/pdex-runtime-procs.o
+LOAD build/staging/pdex-runtime-random_generator_chacha8_ref.o
+LOAD build/staging/pdex-runtime-random_generator_chacha8.o
+START GROUP
+LOAD /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+
+.text           0x00000000     0x3838
+ *(.text)
+ .text          0x00000000       0xa8 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+                0x00000000                eventHandlerShim
+                0x00000038                _malloc_r
+                0x0000005c                _realloc_r
+                0x00000080                _free_r
+ .text          0x000000a8      0x230 build/staging/pdex-main-allocator.o
+                0x000000a8                main::playdate_allocator_proc
+                0x000002cc                main::playdate_allocator
+ .text          0x000002d8      0x3b4 build/staging/pdex-main-game.o
+                0x000002d8                main::update
+                0x00000314                eventHandler
+                0x000005e0                main::gameEventHandler
+                0x000005e4                main::updateEntrypoint
+ .text          0x0000068c       0x70 build/staging/pdex-mem.o
+                0x0000068c                mem::zero
+                0x000006a0                mem::zero_slice:proc"contextless"(data:[]u8)->(:[]u8)
+                0x000006c4                mem::byte_slice
+ .text          0x000006fc       0xa8 build/staging/pdex-runtime-core_builtin.o
+                0x000006fc                runtime::copy_slice_raw
+                0x0000072e                runtime::assert
+                0x00000754                runtime::panic_contextless
+                0x00000770                runtime::assert.internal-61123
+ .text          0x000007a4       0x54 build/staging/pdex-runtime-core_builtin$1.o
+                0x000007a4                runtime::new:proc(T:$main::GameData,allocator:runtime::Allocator,loc:runtime::Source_Code_Location)->(t:^main::GameData,err:runtime::Allocator_Error)#optional_ok
+ .text          0x000007f8       0x1c build/staging/pdex-runtime-core_builtin$2.o
+                0x000007f8                runtime::copy_slice:proc"contextless"(dst:[]u8,src:[]u8)->(:int)
+ .text          0x00000814      0x16a build/staging/pdex-runtime-core.o
+                0x00000814                runtime::__type_info_of
+                0x00000904                runtime::default_logger_proc
+                0x00000906                runtime::default_context
+                0x00000930                runtime::[core.odin]::__init_context
+                0x0000096c                runtime::default_assertion_failure_proc
+                0x0000097c                runtime::default_assertion_contextless_failure_proc
+ *fill*         0x0000097e        0x2 
+ .text          0x00000980       0x90 build/staging/pdex-runtime-default_allocators_nil.o
+                0x00000980                runtime::nil_allocator_proc
+ .text          0x00000a10      0x454 build/staging/pdex-runtime-error_checks.o
+                0x00000a10                runtime::bounds_trap
+                0x00000a12                runtime::bounds_check_error
+                0x00000a4c                runtime::slice_handle_error
+                0x00000b08                runtime::multi_pointer_slice_handle_error
+                0x00000ba0                runtime::multi_pointer_slice_expr_error
+                0x00000bda                runtime::slice_expr_error_hi
+                0x00000c26                runtime::slice_expr_error_lo_hi
+                0x00000c88                runtime::matrix_bounds_check_error
+                0x00000ce0                runtime::bounds_check_error.handle_error-689
+                0x00000d78                runtime::matrix_bounds_check_error.handle_error-3455
+ .text          0x00000e64      0xbb0 build/staging/pdex-runtime-internal.o
+                0x00000e64                runtime::is_power_of_two_int
+                0x00000e78                runtime::mem_alloc_bytes
+                0x00000f14                runtime::memory_equal
+                0x0000113e                runtime::memory_compare
+                0x000016ea                runtime::memory_compare_zero
+                0x00001808                runtime::[internal.odin]::f32_to_f16
+                0x00001964                runtime::[internal.odin]::f16_to_f32
+                0x000019ac                __truncsfhf2
+                0x000019bc                __gnu_f2h_ieee
+                0x000019cc                __aeabi_d2h
+                0x000019e0                __truncdfhf2
+                0x000019f4                __gnu_h2f_ieee
+                0x00001a04                __extendhfsf2
+ .text          0x00001a14        0xe build/staging/pdex-runtime-os_specific_freestanding.o
+                0x00001a14                runtime::[os_specific_freestanding.odin]::_stderr_write
+ *fill*         0x00001a22        0x2 
+ .text          0x00001a24       0x34 build/staging/pdex-runtime-os_specific.o
+                0x00001a24                runtime::stderr_write
+                0x00001a44                runtime::rand_bytes
+ .text          0x00001a58      0x280 build/staging/pdex-runtime-print.o
+                0x00001a58                runtime::print_string
+                0x00001a72                runtime::print_byte
+                0x00001aa0                runtime::print_u64
+                0x00001b78                runtime::print_i64
+                0x00001c90                runtime::print_caller_location
+ .text          0x00001cd8      0xdfc build/staging/pdex-runtime-random_generator_chacha8_ref.o
+                0x00001cd8                runtime::[random_generator_chacha8_ref.odin]::chacha8rand_refill_ref
+                0x00002ab4                runtime::[random_generator_chacha8_ref.odin]::rotl
+ .text          0x00002ad4      0x2a8 build/staging/pdex-runtime-random_generator_chacha8.o
+                0x00002ad4                runtime::default_random_generator_proc
+                0x00002d40                runtime::[random_generator_chacha8.odin]::chacha8rand_refill
+ .text          0x00002d7c       0x30 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x00002d7c                __aeabi_uldivmod
+ .text          0x00002dac        0x4 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x00002dac                __aeabi_ldiv0
+                0x00002dac                __aeabi_idiv0
+ .text          0x00002db0      0x134 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+                0x00002db0                memcpy
+ *(.text.*)
+ .text.__udivmoddi4
+                0x00002ee4      0x320 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x00002ee4                __udivmoddi4
+ .text.memmove  0x00003204      0x124 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+                0x00003204                memmove
+ .text.memset   0x00003328       0x88 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+                0x00003328                memset
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x000033b0        0x8 build/staging/pdex-builtin.o
+                0x000033b0                runtime::type_table
+ .rodata.str1.1
+                0x000033b8      0x3bb build/staging/pdex-main-allocator.o
+                                 0x4c (size before relaxing)
+ .rodata.str1.1
+                0x00003773        0x0 build/staging/pdex-main-game.o
+                                 0x61 (size before relaxing)
+ *fill*         0x00003773        0xd 
+ .rodata        0x00003780       0x18 build/staging/pdex-main-game.o
+ .rodata.str1.1
+                0x00003798        0x0 build/staging/pdex-mem.o
+                                 0x38 (size before relaxing)
+ .rodata.str1.1
+                0x00003798        0x0 build/staging/pdex-runtime-core_builtin.o
+                                 0x18 (size before relaxing)
+ .rodata.str1.1
+                0x00003798        0x0 build/staging/pdex-runtime-error_checks.o
+                                 0x6e (size before relaxing)
+ .rodata.str1.1
+                0x00003798        0x0 build/staging/pdex-runtime-internal.o
+                                 0x21 (size before relaxing)
+ .rodata.str1.1
+                0x00003798        0x0 build/staging/pdex-runtime-os_specific.o
+                                 0x77 (size before relaxing)
+ *fill*         0x00003798        0x8 
+ .rodata        0x000037a0       0x18 build/staging/pdex-runtime-os_specific.o
+ .rodata.str1.1
+                0x000037b8        0x0 build/staging/pdex-runtime-print.o
+                                 0x25 (size before relaxing)
+ .rodata.str1.1
+                0x000037b8        0x0 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+                                 0x55 (size before relaxing)
+ .rodata.str1.1
+                0x000037b8        0x0 build/staging/pdex-runtime-random_generator_chacha8.o
+                                0x13f (size before relaxing)
+ *fill*         0x000037b8        0x8 
+ .rodata        0x000037c0       0x78 build/staging/pdex-runtime-random_generator_chacha8.o
+ *(.eh_frame*)
+
+.odinti         0x00003840       0x58
+ .odinti        0x00003840       0x58 build/staging/pdex-builtin.o
+
+.ARM.exidx.text.__udivmoddi4
+                0x00003898        0x8
+ .ARM.exidx.text.__udivmoddi4
+                0x00003898        0x8 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+
+.glue_7         0x000038a0        0x0
+ .glue_7        0x000038a0        0x0 linker stubs
+
+.glue_7t        0x000038a0        0x0
+ .glue_7t       0x000038a0        0x0 linker stubs
+
+.vfp11_veneer   0x000038a0        0x0
+ .vfp11_veneer  0x000038a0        0x0 linker stubs
+
+.v4_bx          0x000038a0        0x0
+ .v4_bx         0x000038a0        0x0 linker stubs
+
+.iplt           0x000038a0        0x0
+ .iplt          0x000038a0        0x0 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+
+.rel.dyn        0x000038a0        0x0
+ .rel.iplt      0x000038a0        0x0 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+
+.data           0x000038a0        0x8
+                0x000038a0                        __etext = .
+                0x000038a0                        __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x000038a0        0x8 build/staging/pdex-runtime-print.o
+                0x000038a0                runtime::[print.odin]::_INTEGER_DIGITS_VAR
+                0x000038a8                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x000038a8                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x000038a8                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000038a8                        . = ALIGN (0x4)
+                0x000038a8                        __data_end__ = .
+
+.igot.plt       0x000038a8        0x0
+ .igot.plt      0x000038a8        0x0 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+
+.bss            0x000038a8      0x448
+                0x000038a8                        . = ALIGN (0x4)
+                0x000038a8                        __bss_start__ = .
+ *(.bss*)
+ .bss           0x000038a8        0x4 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+ .bss           0x000038ac       0x3c build/staging/pdex-main-game.o
+                0x000038ac                main::PD
+                0x000038b0                main::GameContext
+ .bss           0x000038e8      0x408 build/staging/pdex-runtime-random_generator_chacha8.o
+ *(COMMON)
+ *(COM)
+                0x00003cf0                        . = ALIGN (0x4)
+                0x00003cf0                        __bss_end__ = .
+
+/DISCARD/
+ *(.ARM.exidx)
+OUTPUT(build/staging/pdex.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+                                 0x47 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x34 /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+ .ARM.attributes
+                0x00000034       0x46 build/staging/pdex-builtin.o
+ .ARM.attributes
+                0x0000007a       0x46 build/staging/pdex-main-allocator.o
+ .ARM.attributes
+                0x000000c0       0x46 build/staging/pdex-main-game.o
+ .ARM.attributes
+                0x00000106       0x46 build/staging/pdex-mem.o
+ .ARM.attributes
+                0x0000014c       0x46 build/staging/pdex-runtime-core_builtin.o
+ .ARM.attributes
+                0x00000192       0x46 build/staging/pdex-runtime-core_builtin$1.o
+ .ARM.attributes
+                0x000001d8       0x46 build/staging/pdex-runtime-core_builtin$2.o
+ .ARM.attributes
+                0x0000021e       0x46 build/staging/pdex-runtime-core.o
+ .ARM.attributes
+                0x00000264       0x46 build/staging/pdex-runtime-default_allocators_nil.o
+ .ARM.attributes
+                0x000002aa       0x46 build/staging/pdex-runtime-error_checks.o
+ .ARM.attributes
+                0x000002f0       0x46 build/staging/pdex-runtime-internal.o
+ .ARM.attributes
+                0x00000336       0x46 build/staging/pdex-runtime-os_specific_freestanding.o
+ .ARM.attributes
+                0x0000037c       0x46 build/staging/pdex-runtime-os_specific.o
+ .ARM.attributes
+                0x000003c2       0x46 build/staging/pdex-runtime-print.o
+ .ARM.attributes
+                0x00000408       0x46 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .ARM.attributes
+                0x0000044e       0x46 build/staging/pdex-runtime-random_generator_chacha8.o
+ .ARM.attributes
+                0x00000494       0x22 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000004b6       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000004ea       0x22 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000050c       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x00000540       0x34 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000574       0x20 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-builtin.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-main-allocator.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-main-game.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-mem.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-core_builtin.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-core_builtin$1.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-core_builtin$2.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-core.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-default_allocators_nil.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-error_checks.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-internal.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-os_specific_freestanding.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-os_specific.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-print.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+ .note.GNU-stack
+                0x00000000        0x0 build/staging/pdex-runtime-random_generator_chacha8.o
+
+.debug_line_str
+                0x00000000      0x1fa
+ .debug_line_str
+                0x00000000      0x1fa /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                                 0xea (size before relaxing)
+ .debug_line_str
+                0x000001fa        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                                 0xee (size before relaxing)
+ .debug_line_str
+                0x000001fa        0x0 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+                                0x104 (size before relaxing)
+
+.debug_frame    0x00000000       0xf0
+ .debug_frame   0x00000000       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000002c       0x44 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000070       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+ .debug_frame   0x0000009c       0x2c /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+ .debug_frame   0x000000c8       0x28 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+
+Cross Reference Table
+
+Symbol                                            File
+_Unwind_Backtrace                                 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+_Unwind_Complete                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+_Unwind_DeleteException                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+_Unwind_ForcedUnwind                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+_Unwind_GetCFA                                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+_Unwind_GetDataRelBase                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_GetLanguageSpecificData                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_GetRegionStart                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_GetTextRelBase                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_RaiseException                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+_Unwind_Resume                                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+_Unwind_Resume_or_Rethrow                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+_Unwind_VRS_Get                                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_VRS_Pop                                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+_Unwind_VRS_Set                                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+__$cleanup_runtime                                build/staging/pdex-builtin.o
+__$startup_runtime                                build/staging/pdex-builtin.o
+___Unwind_Backtrace                               /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+___Unwind_ForcedUnwind                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+___Unwind_RaiseException                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+___Unwind_Resume                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+___Unwind_Resume_or_Rethrow                       /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__aeabi_d2h                                       build/staging/pdex-runtime-internal.o
+__aeabi_idiv0                                     /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+__aeabi_ldiv0                                     /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+__aeabi_uldivmod                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                                                  build/staging/pdex-runtime-core.o
+__aeabi_unwind_cpp_pr0                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                                  build/staging/pdex-builtin.o
+__aeabi_unwind_cpp_pr1                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+__aeabi_unwind_cpp_pr2                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__cxa_begin_cleanup                               /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__cxa_call_unexpected                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__cxa_type_match                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__exidx_end                                       /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__exidx_start                                     /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__extendhfsf2                                     build/staging/pdex-runtime-internal.o
+__fp_lock_all                                     /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__fp_unlock_all                                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__gnu_Unwind_Backtrace                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__gnu_Unwind_Find_exidx                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_ForcedUnwind                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__gnu_Unwind_RaiseException                       /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__gnu_Unwind_Restore_VFP                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_VFP_D                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_VFP_D_16_to_31               /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_WMMXC                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Restore_WMMXD                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Resume                               /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__gnu_Unwind_Resume_or_Rethrow                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__gnu_Unwind_Save_VFP                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_VFP_D                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_VFP_D_16_to_31                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_WMMXC                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_Unwind_Save_WMMXD                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_f2h_ieee                                    build/staging/pdex-runtime-internal.o
+__gnu_h2f_ieee                                    build/staging/pdex-runtime-internal.o
+__gnu_unwind_execute                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+__gnu_unwind_frame                                /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+__lock___arc4random_mutex                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___at_quick_exit_mutex                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___atexit_recursive_mutex                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___dd_hash_mutex                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___env_recursive_mutex                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___malloc_recursive_mutex                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__lock___sfp_recursive_mutex                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__lock___tz_mutex                                 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__restore_core_regs                               /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+__retarget_lock_acquire                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__retarget_lock_acquire_recursive                 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__retarget_lock_close                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__retarget_lock_close_recursive                   /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+__retarget_lock_init                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__retarget_lock_init_recursive                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__retarget_lock_release                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__retarget_lock_release_recursive                 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__retarget_lock_try_acquire                       /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__retarget_lock_try_acquire_recursive             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lock.o)
+__sclose                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__seofread                                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+__sf                                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+__sflush_r                                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+__sfp                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__sfp_lock_acquire                                /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+__sfp_lock_release                                /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+__sglue                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+__sigtramp                                        /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+__sigtramp_r                                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+__sinit                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+__sread                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__sseek                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__stdio_exit_handler                              /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__swrite                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+__truncdfhf2                                      build/staging/pdex-runtime-internal.o
+__truncsfhf2                                      build/staging/pdex-runtime-internal.o
+__udivmoddi4                                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+_close                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+_close_r                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+_exit                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+_fclose_r                                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+_fflush_r                                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+_free_r                                           /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+_fwalk_sglue                                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fwalk.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+_getpid                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+_getpid_r                                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_impure_data                                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+_impure_ptr                                       /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-impure.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_init_signal                                      /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_init_signal_r                                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_kill                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+_kill_r                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_lseek                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+_lseek_r                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+_malloc_r                                         /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_raise_r                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_read                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+_read_r                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+_realloc_r                                        /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+_reclaim_reent                                    /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+_signal_r                                         /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+_write                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+_write_r                                          /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-stdio.o)
+abort                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+errno                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-reent.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-writer.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-readr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-lseekr.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-closer.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signalr.o)
+eventHandler                                      build/staging/pdex-main-game.o
+                                                  /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+eventHandlerShim                                  /var/folders/53/y_mjpqpd1m59bhnrw4ml250w0000gn/T//ccqiguT5.o
+fclose                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fclose.o)
+fflush                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-fflush.o)
+main::GameContext                                 build/staging/pdex-main-game.o
+main::PD                                          build/staging/pdex-main-game.o
+main::gameEventHandler                            build/staging/pdex-main-game.o
+main::playdate_allocator                          build/staging/pdex-main-allocator.o
+                                                  build/staging/pdex-main-game.o
+main::playdate_allocator_proc                     build/staging/pdex-main-allocator.o
+main::update                                      build/staging/pdex-main-game.o
+main::updateEntrypoint                            build/staging/pdex-main-game.o
+mem::byte_slice                                   build/staging/pdex-mem.o
+                                                  build/staging/pdex-main-allocator.o
+mem::zero                                         build/staging/pdex-mem.o
+mem::zero_slice:proc"contextless"(data:[]u8)->(:[]u8) build/staging/pdex-mem.o
+                                                  build/staging/pdex-main-allocator.o
+memcpy                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memcpy.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                                  build/staging/pdex-runtime-core.o
+memmove                                           /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memmove.o)
+                                                  build/staging/pdex-runtime-core_builtin.o
+memset                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-memset.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-findfp.o)
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+                                                  build/staging/pdex-runtime-print.o
+                                                  build/staging/pdex-runtime-core.o
+                                                  build/staging/pdex-mem.o
+                                                  build/staging/pdex-main-game.o
+raise                                             /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-abort.o)
+restore_core_regs                                 /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                                                  /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+runtime::[core.odin]::__init_context              build/staging/pdex-runtime-core.o
+                                                  build/staging/pdex-main-game.o
+runtime::[internal.odin]::f16_to_f32              build/staging/pdex-runtime-internal.o
+runtime::[internal.odin]::f32_to_f16              build/staging/pdex-runtime-internal.o
+runtime::[os_specific_freestanding.odin]::_stderr_write build/staging/pdex-runtime-os_specific_freestanding.o
+                                                  build/staging/pdex-runtime-os_specific.o
+runtime::[print.odin]::_INTEGER_DIGITS_VAR        build/staging/pdex-runtime-print.o
+runtime::[random_generator_chacha8.odin]::chacha8rand_refill build/staging/pdex-runtime-random_generator_chacha8.o
+runtime::[random_generator_chacha8_ref.odin]::chacha8rand_refill_ref build/staging/pdex-runtime-random_generator_chacha8_ref.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+runtime::[random_generator_chacha8_ref.odin]::chacha8rand_refill_ref$anon-runtime:random_generator_chacha8_ref.odin:885 build/staging/pdex-runtime-random_generator_chacha8_ref.o
+runtime::[random_generator_chacha8_ref.odin]::rotl build/staging/pdex-runtime-random_generator_chacha8_ref.o
+runtime::__type_info_of                           build/staging/pdex-runtime-core.o
+runtime::assert                                   build/staging/pdex-runtime-core_builtin.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+                                                  build/staging/pdex-runtime-internal.o
+runtime::assert.internal-61123                    build/staging/pdex-runtime-core_builtin.o
+runtime::bounds_check_error                       build/staging/pdex-runtime-error_checks.o
+runtime::bounds_check_error.handle_error-689      build/staging/pdex-runtime-error_checks.o
+runtime::bounds_trap                              build/staging/pdex-runtime-error_checks.o
+runtime::copy_slice:proc"contextless"(dst:[]u8,src:[]u8)->(:int) build/staging/pdex-runtime-core_builtin$2.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+runtime::copy_slice_raw                           build/staging/pdex-runtime-core_builtin.o
+                                                  build/staging/pdex-runtime-core_builtin$2.o
+runtime::default_assertion_contextless_failure_proc build/staging/pdex-runtime-core.o
+                                                  build/staging/pdex-runtime-core_builtin.o
+runtime::default_assertion_failure_proc           build/staging/pdex-runtime-core.o
+                                                  build/staging/pdex-runtime-core_builtin.o
+runtime::default_context                          build/staging/pdex-runtime-core.o
+                                                  build/staging/pdex-main-game.o
+runtime::default_logger_proc                      build/staging/pdex-runtime-core.o
+runtime::default_random_generator_proc            build/staging/pdex-runtime-random_generator_chacha8.o
+                                                  build/staging/pdex-runtime-core.o
+runtime::is_power_of_two_int                      build/staging/pdex-runtime-internal.o
+runtime::matrix_bounds_check_error                build/staging/pdex-runtime-error_checks.o
+runtime::matrix_bounds_check_error.handle_error-3455 build/staging/pdex-runtime-error_checks.o
+runtime::mem_alloc_bytes                          build/staging/pdex-runtime-internal.o
+                                                  build/staging/pdex-runtime-core_builtin$1.o
+runtime::memory_compare                           build/staging/pdex-runtime-internal.o
+runtime::memory_compare_zero                      build/staging/pdex-runtime-internal.o
+runtime::memory_equal                             build/staging/pdex-runtime-internal.o
+runtime::memset                                   build/staging/pdex-runtime-procs.o
+runtime::multi_pointer_slice_expr_error           build/staging/pdex-runtime-error_checks.o
+                                                  build/staging/pdex-mem.o
+runtime::multi_pointer_slice_handle_error         build/staging/pdex-runtime-error_checks.o
+runtime::new:proc(T:$main::GameData,allocator:runtime::Allocator,loc:runtime::Source_Code_Location)->(t:^main::GameData,err:runtime::Allocator_Error)#optional_ok build/staging/pdex-runtime-core_builtin$1.o
+                                                  build/staging/pdex-main-game.o
+runtime::nil_allocator_proc                       build/staging/pdex-runtime-default_allocators_nil.o
+                                                  build/staging/pdex-runtime-core.o
+runtime::panic_contextless                        build/staging/pdex-runtime-core_builtin.o
+                                                  build/staging/pdex-runtime-os_specific.o
+runtime::print_byte                               build/staging/pdex-runtime-print.o
+                                                  build/staging/pdex-runtime-error_checks.o
+runtime::print_caller_location                    build/staging/pdex-runtime-print.o
+                                                  build/staging/pdex-runtime-error_checks.o
+runtime::print_i64                                build/staging/pdex-runtime-print.o
+                                                  build/staging/pdex-runtime-error_checks.o
+runtime::print_string                             build/staging/pdex-runtime-print.o
+                                                  build/staging/pdex-runtime-error_checks.o
+runtime::print_u64                                build/staging/pdex-runtime-print.o
+runtime::rand_bytes                               build/staging/pdex-runtime-os_specific.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+runtime::slice_expr_error_hi                      build/staging/pdex-runtime-error_checks.o
+runtime::slice_expr_error_lo_hi                   build/staging/pdex-runtime-error_checks.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8.o
+                                                  build/staging/pdex-runtime-random_generator_chacha8_ref.o
+                                                  build/staging/pdex-main-allocator.o
+runtime::slice_handle_error                       build/staging/pdex-runtime-error_checks.o
+runtime::stderr_write                             build/staging/pdex-runtime-os_specific.o
+                                                  build/staging/pdex-runtime-print.o
+runtime::type_table                               build/staging/pdex-builtin.o
+                                                  build/staging/pdex-runtime-core.o
+signal                                            /Applications/ArmGNUToolchain/15.3.rel2/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(libc_a-signal.o)

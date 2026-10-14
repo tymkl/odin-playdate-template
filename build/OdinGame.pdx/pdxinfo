@@ -1,0 +1,7 @@
+name=OdinGame
+author=Tyler Meekel
+description=A game for Playdate built with Odin!
+bundleID=dev.tylermeekel.odingame
+version=1.0
+pdxversion=30101
+buildtime=845320867

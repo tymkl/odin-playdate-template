@@ -9,14 +9,16 @@ package pd
 
 import "core:c"
 
-PDButtons :: enum u32 {
-	Left  = 1,
-	Right = 2,
-	Up    = 4,
-	Down  = 8,
-	B     = 16,
-	A     = 32,
+PDButtonEnum :: enum u32 {
+	Left ,
+	Right,
+	Up   ,
+	Down ,
+	B,
+	A,
 }
+
+PDButtons :: bit_set[PDButtonEnum; u32]
 
 PDLanguage :: enum u32 {
 	English  = 0,
@@ -142,4 +144,3 @@ playdate_sys :: struct {
 	getPowerStatus:   proc "c" () -> PDPowerStatus,
 	exitToLauncher:   proc "c" (),
 }
-
