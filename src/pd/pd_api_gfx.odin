@@ -64,7 +64,10 @@ PDStringEncoding :: enum u32 {
 }
 
 LCDPattern :: [16]u8      // 8x8 pattern: 8 rows image data, 8 rows mask
-LCDColor   :: c.uintptr_t // LCDSolidColor or pointer to LCDPattern
+LCDColor   :: union {
+	LCDSolidColor,
+	^LCDPattern
+} // LCDSolidColor or pointer to LCDPattern
 
 LCDPolygonFillRule :: enum u32 {
 	NonZero = 0,
